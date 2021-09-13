@@ -1,2 +1,4 @@
 # BME547_ICEs
-Repository for any in class exercises not related to the health database 
+This repository will include any in class exercise that isnt related to the work that we are doing with the health database. \
+
+
