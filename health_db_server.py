@@ -19,10 +19,10 @@ def new_patient():
     return "Added patient {}".format(new_patient)
 
 
-@app.route("/add_test", methods=["POST"])
-def add_tests():
-    in_data = requests.get_json()
-    return "hello"
+#@app.route("/add_test", methods=["POST"])
+#def add_tests():
+#    in_data = requests.get_json()
+#    return "hello"
 
 
 def add_db_entry(name, id_no, blood_type):
